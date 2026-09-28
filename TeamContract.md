@@ -62,4 +62,5 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
-Ingrid Wilkinson, Regan Medcof, Elliot Gamache, Nikola Kraincanic
+Ingrid Wilkinson, Regan Medcof, Elliot Gamache, Nikola Kraincanic, Felix Hansen
+
