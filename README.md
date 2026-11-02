@@ -18,7 +18,7 @@ at the end of the term.
 - Regan Alexandra Medcof
 - Nikola Kraincanic
 - Elliot Gamache
-- Name
+- Felix Hansen
 - Name
 ---
 ## Project Description
@@ -57,9 +57,9 @@ Ratings update after each match and top accounts are viewable on a leaderboard.
 (Add additional entities as needed.)
 ---
 ## API Usage
-**API Name:**
-**Documentation:** [Link]
-**How it is used in the program:**
+**API Name: Mapbox**
+**Documentation:** [https://docs.mapbox.com/api/maps/static-images/]
+**How it is used in the program:** This api will be used in addition to a JSON dataset containing popular's cities longitude and latitude. Then those coordinates will help build a URL query to get the satellite image.
 ---
 ## Design Diagrams
 ### UML Class Diagram
