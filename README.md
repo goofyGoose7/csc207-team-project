@@ -27,8 +27,15 @@ at the end of the term.
 ---
 ## User Stories
 ### User Story 1
+The user is shown a welcome page where they can start a new game or view their profile.
 ### User Story 2
+A user is show an image. They guess what city it shows. They're informed if they were correct or not. 
 ### User Story 3
+Users have multiple guesses if they're incorrect. The image zooms in to show the city more clearly with each incorrect guess.
+### User Story 4
+Users have accounts with a unique username, a profile picture, and a rating (like in chess). Accounts are editable.
+### User Story 5
+Ratings update after each match and top accounts are viewable on a leaderboard.
 (Add additional user stories as needed.)
 ---
 ## Use Cases
@@ -40,9 +47,9 @@ at the end of the term.
 ## Minimal Viable Product (MVP)
 | Team Member | MVP Use Case |
 |-------------|--------------|
-| Name | Use Case |
-| Name | Use Case |
-| Name | Use Case |
+| Name | Use Case | 
+| Name | Use Case | 
+| Name | Use Case | 
 ---
 ## Entities
 ### Entity 1
