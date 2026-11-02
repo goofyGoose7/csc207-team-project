@@ -22,8 +22,8 @@ at the end of the term.
 - Name
 ---
 ## Project Description
-### Domain
-[Project description]
+### Entertainment
+Guess the city game where a user is shown a satellite image of a city with 5 tries to guess correctly, slightly zooming out with each wrong answer.
 ---
 ## User Stories
 ### User Story 1
@@ -31,7 +31,7 @@ The user is shown a welcome page where they can start a new game or view their p
 ### User Story 2
 A user is show an image. They guess what city it shows. They're informed if they were correct or not. 
 ### User Story 3
-Users have multiple guesses if they're incorrect. The image zooms in to show the city more clearly with each incorrect guess.
+Users have multiple guesses if they're incorrect. The image zooms out to show the city more clearly with each incorrect guess.
 ### User Story 4
 Users have accounts with a unique username, a profile picture, and a rating (like in chess). Accounts are editable.
 ### User Story 5
