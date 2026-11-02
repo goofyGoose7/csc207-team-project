@@ -19,11 +19,12 @@ at the end of the term.
 - Nikola Kraincanic
 - Elliot Gamache
 - Felix Hansen
-- Name
+- Ingrid Wilkinson
 ---
 ## Project Description
 ### Entertainment
 Guess the city game where a user is shown a satellite image of a city with 5 tries to guess correctly, slightly zooming out with each wrong answer.
+
 ---
 ## User Stories
 ### User Story 1
@@ -58,8 +59,12 @@ Ratings update after each match and top accounts are viewable on a leaderboard.
 ---
 ## API Usage
 **API Name: Mapbox**
+
 **Documentation:** [https://docs.mapbox.com/api/maps/static-images/]
-**How it is used in the program:** This api will be used in addition to a JSON dataset containing popular's cities longitude and latitude. Then those coordinates will help build a URL query to get the satellite image.
+
+**How it is used in the program:** 
+This api will be used in addition to a JSON dataset containing popular's cities longitude and latitude. Then those coordinates will help build a URL query to get the satellite image.
+
 ---
 ## Design Diagrams
 ### UML Class Diagram
