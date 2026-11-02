@@ -16,7 +16,7 @@ at the end of the term.
 ## Team Information
 ### Team Members
 - Regan Alexandra Medcof
-- Name
+- Nikola Kraincanic
 - Name
 - Name
 - Name
