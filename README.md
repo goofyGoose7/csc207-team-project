@@ -27,15 +27,15 @@ Guess the city game where a user is shown a satellite image of a city with 5 tri
 
 ---
 ## User Stories
-### User Story 1
+### User Story 1 - Felix
 Users are shown a welcome page where they can start a new game or view their profile.
-### User Story 2
+### User Story 2 - Elliot
 Users are shown an image. They guess what city it shows. They're informed if they were correct or not. 
-### User Story 3
+### User Story 3 - Nikola
 Users have multiple guesses if they're incorrect. The image zooms out to show the city more clearly with each incorrect guess.
-### User Story 4
+### User Story 4 - Regan
 Users have accounts with a unique username, a profile picture, and a rating (like in chess). Accounts are editable.
-### User Story 5
+### User Story 5 - Ingrid
 Ratings update after each match and top accounts are viewable on a leaderboard.
 
 ---
