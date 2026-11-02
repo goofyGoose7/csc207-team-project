@@ -35,8 +35,8 @@ Users have multiple guesses if they're incorrect. The image zooms out to show th
 ### User Story 4
 Users have accounts with a unique username, a profile picture, and a rating (like in chess). Accounts are editable.
 ### User Story 5
-Ratings update after each match and top accounts are viewable on a leaderboard.
-(Add additional user stories as needed.)
+Ratings uodate after each match and top accounts are viewable on a leaderboard.
+
 ---
 ## Use Cases
 ### Use Case 1
