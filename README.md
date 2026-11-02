@@ -30,7 +30,7 @@ Guess the city game where a user is shown a satellite image of a city with 5 tri
 ### User Story 1 - Felix
 Users are shown a welcome page where they can start a new game or view their profile.
 ### User Story 2 - Elliot
-Users are shown an image. They guess what city it shows. They're informed if they were correct or not. 
+As a user, I want to be told when my guess is correct and shown a screen displaying information about the correctly guessed location.
 ### User Story 3 - Nikola
 Users have multiple guesses if they're incorrect. The image zooms out to show the city more clearly with each incorrect guess.
 ### User Story 4 - Regan
