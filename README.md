@@ -17,7 +17,7 @@ at the end of the term.
 ### Team Members
 - Regan Alexandra Medcof
 - Nikola Kraincanic
-- Name
+- Elliot Gamache
 - Name
 - Name
 ---
@@ -27,9 +27,9 @@ Guess the city game where a user is shown a satellite image of a city with 5 tri
 ---
 ## User Stories
 ### User Story 1
-The user is shown a welcome page where they can start a new game or view their profile.
+Users are shown a welcome page where they can start a new game or view their profile.
 ### User Story 2
-A user is show an image. They guess what city it shows. They're informed if they were correct or not. 
+Users are shown an image. They guess what city it shows. They're informed if they were correct or not. 
 ### User Story 3
 Users have multiple guesses if they're incorrect. The image zooms out to show the city more clearly with each incorrect guess.
 ### User Story 4
