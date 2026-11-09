@@ -1,3 +1,4 @@
+# Project Name
 # CityGuesser
 
 The readme should include information such as:
@@ -6,7 +7,6 @@ The readme should include information such as:
 - information about the API(s) that your project uses 
 - screenshots or animations demonstrating current functionality
 
-# Project Name
 ## Team Information
 ### Team Members
 - Regan Alexandra Medcof
