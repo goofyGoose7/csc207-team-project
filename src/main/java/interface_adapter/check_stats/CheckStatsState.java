@@ -7,7 +7,7 @@ public class CheckStatsState {
     private String winPercentage = "";
     private String currentStreak = "";
     private String longestStreak = "";
-    private String[] guessDistribution = {"", "", "", "", ""};
+    private int[] guessDistribution = new int[5];
     private String error;
 
     public String getTitle() {
@@ -58,11 +58,11 @@ public class CheckStatsState {
         this.longestStreak = longestStreak;
     }
 
-    public String[] getGuessDistribution() {
+    public int[] getGuessDistribution() {
         return guessDistribution;
     }
 
-    public void setGuessDistribution(String[] guessDistribution) {
+    public void setGuessDistribution(int[] guessDistribution) {
         this.guessDistribution = guessDistribution;
     }
 

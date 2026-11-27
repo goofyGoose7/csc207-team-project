@@ -25,12 +25,7 @@ public class CheckStatsPresenter implements CheckStatsOutputBoundary {
         state.setCurrentStreak("Current streak: " + outputData.getCurrentStreak());
         state.setLongestStreak("Longest streak: " + outputData.getLongestStreak());
 
-        final int[] counts = outputData.getGuessDistribution();
-        final String[] distribution = new String[counts.length];
-        for (int i = 0; i < counts.length; i++) {
-            distribution[i] = "Won on attempt " + (i + 1) + ": " + counts[i];
-        }
-        state.setGuessDistribution(distribution);
+        state.setGuessDistribution(outputData.getGuessDistribution().clone());
         state.setError(null);
 
         checkStatsViewModel.setState(state);
